@@ -1,0 +1,146 @@
+// !$*UTF8*$!
+{
+	0705EC750E1B739C003825E3 /* Image Download */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Image Download";
+		sourceDirectories = (
+		);
+	};
+	0705EC870E1B73A2003825E3 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	0705EC880E1B73A2003825E3 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	0705EC950E1B7417003825E3 /* MainController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {675, 406}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 376}";
+		};
+	};
+	0705EC960E1B7417003825E3 /* MainController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {675, 1694}}";
+			sepNavSelRange = "{1230, 0}";
+			sepNavVisRange = "{715, 1174}";
+		};
+	};
+	0705ECA70E1B7601003825E3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0705EC960E1B7417003825E3 /* MainController.m */;
+		name = "MainController.m: 45";
+		rLen = 0;
+		rLoc = 1230;
+		rType = 0;
+		vrLen = 1174;
+		vrLoc = 715;
+	};
+	0705ECA80E1B7601003825E3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0705EC950E1B7417003825E3 /* MainController.h */;
+		name = "MainController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 376;
+		vrLoc = 0;
+	};
+	0705ECA90E1B7601003825E3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0705EC960E1B7417003825E3 /* MainController.m */;
+		name = "MainController.m: 45";
+		rLen = 0;
+		rLoc = 1230;
+		rType = 0;
+		vrLen = 1174;
+		vrLoc = 715;
+	};
+	0705ECAA0E1B7601003825E3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0705EC950E1B7417003825E3 /* MainController.h */;
+		name = "MainController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 376;
+		vrLoc = 0;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecture = ppc;
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 0705EC750E1B739C003825E3 /* Image Download */;
+		activeTarget = 8D1107260486CEB800E47090 /* Image Download */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Image Download */,
+		);
+		codeSenseManager = 0705EC880E1B73A2003825E3 /* Code sense */;
+		executables = (
+			0705EC750E1B739C003825E3 /* Image Download */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					420,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 236680177;
+			PBXWorkspaceStateSaveDate = 236680177;
+		};
+		perUserProjectItems = {
+			0705ECA70E1B7601003825E3 /* PBXTextBookmark */ = 0705ECA70E1B7601003825E3 /* PBXTextBookmark */;
+			0705ECA80E1B7601003825E3 /* PBXTextBookmark */ = 0705ECA80E1B7601003825E3 /* PBXTextBookmark */;
+			0705ECA90E1B7601003825E3 /* PBXTextBookmark */ = 0705ECA90E1B7601003825E3 /* PBXTextBookmark */;
+			0705ECAA0E1B7601003825E3 /* PBXTextBookmark */ = 0705ECAA0E1B7601003825E3 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 0705EC870E1B73A2003825E3 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* Image Download */ = {
+		activeExec = 0;
+		executables = (
+			0705EC750E1B739C003825E3 /* Image Download */,
+		);
+	};
+}
